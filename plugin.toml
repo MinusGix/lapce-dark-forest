@@ -1,0 +1,7 @@
+name = "dark-forest"
+display-name = "Dark Forest"
+description = "A dimly lit forest"
+version = "0.1.0"
+author = "MinusGix"
+repository = "MinusGix/lapce-dark-forest"
+themes = ["dark-forest.toml"]
