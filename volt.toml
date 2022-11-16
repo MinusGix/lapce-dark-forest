@@ -1,6 +1,9 @@
 name = "dark-forest"
 display-name = "Dark Forest"
 description = "A dimly lit forest"
-version = "0.1.0"
+version = "0.1.1"
 author = "MinusGix"
+repository = "https://github.com/MinusGix/lapce-dark-forest"
 color-themes = ["dark-forest.toml"]
+# From https://openclipart.org/detail/323955/sunrise-in-the-forest
+icon = "dark-forest.png"
